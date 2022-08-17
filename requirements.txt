@@ -1,0 +1,15 @@
+certifi==2022.6.15
+charset-normalizer==2.1.0
+docopt==0.6.2
+idna==3.3
+pipreqs==0.4.11
+requests==2.28.1
+urllib3==1.26.11
+yarg==0.1.9
+django==4.1
+djangorestframework==3.13.1
+django-rest-framework==0.1.0
+django-cors-headers==3.13.0
+
+
+
